@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LiveDataTest</string>
+    <string name="image1">image up</string>
+    <string name="image2">image down</string>
+</resources>
